@@ -1,5 +1,6 @@
 #bottom{
     border:#313552 2px solid ;
+    border-radius: 5px;
     background-color: #313552;
     margin-top: 20%;
     color: white;
@@ -15,5 +16,7 @@ li{
     color: white;
     text-decoration: none;
     font-size: small;
+    padding-bottom:0;
+    
     
 }
