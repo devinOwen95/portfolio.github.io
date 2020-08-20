@@ -1,0 +1,91 @@
+body {
+    background: #1f2235;
+    font-family: "Baloo Tamma 2", cursive; 
+  }
+
+  #topOfPage{
+    background: linear-gradient(
+  rgba(0,0,0,0.05),
+  rgba(0,0,0,0.05) ) ,
+  url('../assets/backgroundCode.png');
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 75%; 
+  }
+
+.codeBackGround{
+    background: linear-gradient(
+        rgba(0,0,0,0.05),
+        rgba(0,0,0,0.05) ) ,
+        url('../assets/backgroundCode.png');
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 75%;
+}
+
+  
+
+ 
+  
+  #resume{
+    border: black 1px solid;
+    background-color: #f5ba09;
+    color: white;
+  }
+
+  #resume:hover{
+    opacity: 75%;
+  }
+  
+  
+  .m-heading {
+    font-family: "Anton", serif;
+  }
+  
+  #selfie{
+    width: 75%;
+    height: 75%;
+    margin-top: 15%;
+    margin-left: 10%;
+    border-radius: 5px;
+  }
+  
+ 
+  
+  .mainContainer{
+    min-height: 100vh;
+    padding-top: 5rem;
+  }
+  
+  
+  .mainRow{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  
+  .mainRow h1{
+    font-size: 3rem;
+  }
+  
+  
+  #about{
+    background: #313552;
+    border-radius:0.5rem;
+  }
+  
+  
+  #myName{
+    background: #313552;
+    border-radius:0.5rem;
+  }
+   
+  
+  
+
+  
